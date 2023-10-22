@@ -6,6 +6,8 @@
 - Tambien existe persistencia de esta data en el Local Storage del navegador, por lo que al actualizar la pagina se puede volver a visualizar todo como se tenia antes. 
 - Si se hace clic en alguno de las busquedas realizadas, apiladas en el sidebar, se dispara nuevamente la peticion Http y se vuelve a traer los Gifs de la Api.
 
+### Haz clic en "Actions" y prueba la aplicacion! :)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.6.
 
 ## Development server
